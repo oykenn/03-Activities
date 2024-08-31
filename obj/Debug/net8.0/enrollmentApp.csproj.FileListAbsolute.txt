@@ -1,0 +1,14 @@
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\bin\Debug\net8.0\enrollmentApp.exe
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\bin\Debug\net8.0\enrollmentApp.deps.json
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\bin\Debug\net8.0\enrollmentApp.runtimeconfig.json
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\bin\Debug\net8.0\enrollmentApp.dll
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\bin\Debug\net8.0\enrollmentApp.pdb
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\obj\Debug\net8.0\enrollmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\obj\Debug\net8.0\enrollmentApp.AssemblyInfoInputs.cache
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\obj\Debug\net8.0\enrollmentApp.AssemblyInfo.cs
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\obj\Debug\net8.0\enrollmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\obj\Debug\net8.0\enrollmentApp.dll
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\obj\Debug\net8.0\refint\enrollmentApp.dll
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\obj\Debug\net8.0\enrollmentApp.pdb
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\obj\Debug\net8.0\enrollmentApp.genruntimeconfig.cache
+C:\Users\Kenn\sti-Com3\03Activities\enrollmentApp\obj\Debug\net8.0\ref\enrollmentApp.dll
